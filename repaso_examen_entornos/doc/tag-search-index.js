@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Gestion de notas","h":"class repaso_examen_entornos.Repaso","d":"Section","u":"repaso_examen_entornos/Repaso.html#gestion-de-notas-heading"}];updateSearchResults();
